@@ -11,7 +11,7 @@ title = 'Technology...while drinking coffee'
 
 [caches]
   [caches.images]
-    dir = ':cachDir/images'
+    dir = ':cacheDir/images'
 
 
 
