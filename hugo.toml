@@ -85,6 +85,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 [params]
   toc = true
+  [params.author]
+    name = "coffeeandtech"
+    email = "hello@coffeeandtech.blog"
 
 [module]
   [[module.imports]]
