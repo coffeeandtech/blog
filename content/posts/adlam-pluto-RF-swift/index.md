@@ -1,5 +1,5 @@
 +++
-date = '2026-02-12T22:07:39-08:00'
+date = '2026-02-11T22:07:39-08:00'
 draft = false
 title = 'Setting up ADALM-Pluto SDR with RF-Swift'
 +++
@@ -8,7 +8,7 @@ In this post I'm going to walk through setting up an ADALM-Pluto Software Define
 
 Let's get to it:
 
-1. Go to https://ubuntu.com/download/desktop and download the ISO. I'm choosing the Long Term Support (LTS) version as there's no compelling reason to go to the short-term variant.  
+1. Go to https://ubuntu.com/download/desktop and download the ISO. I'm choosing the Long Term Support (LTS) version as there's no compelling reason to go to the short-term variant.
 ![ubuntu-download](ubuntu-download.png)
 
 2. Verify the downloaded file hash. The Ubuntu website gives instructions for how to do this in linux. 
