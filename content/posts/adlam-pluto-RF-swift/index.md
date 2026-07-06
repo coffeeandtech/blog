@@ -1,5 +1,5 @@
 +++
-date = '2026-02-11T22:07:39-08:00'
+date = '2026-02-12T22:07:39-08:00'
 draft = false
 title = 'Setting up ADALM-Pluto SDR with RF-Swift'
 +++
